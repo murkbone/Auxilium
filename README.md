@@ -1,2 +1,2 @@
 # Auxilium
-A 2-player Batch game about teamwork and stress
+A cooperative experience about communication and betrayal
