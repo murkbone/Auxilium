@@ -4,3 +4,10 @@
 #### Created by tobi (@meowfluff)
 
 `# Expected full release date: May - August 2022!`
+
+## What is Auxilium?
+Auxilium is a free-to-play two player experience. You're selected to play-test a program for an unidentified company.
+
+You and a partner must complete puzzles and find out what lies underneath.
+
+You can either help your partner; or betray them for selfish gain.
