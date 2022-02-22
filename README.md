@@ -27,6 +27,12 @@ A singleplayer campaign will also be released eventually.
 We expect to release Auxilium around May to August 2022, however it may take longer or shorter.
 
 ### Will the game be free to play?
-Yes! We have released a demo of 5 multiplayer levels and 1 singleplayer level here, which you can download.
+Yes! We have released a demo of 5 multiplayer levels and 1 singleplayer level here, which you can download here.
 
 The game may change as we develop it, so beware!
+
+### Are you looking for any help on the project?
+Currently, no. However, we may be looking for helpers in the future.
+
+### Will there be any other releases for other OS'?
+Linux support may happen. Mac support is unlikely. No Chromebook support.
