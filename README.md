@@ -13,6 +13,11 @@ You can download the latest version of Auxilium here.
 
 (Demo is coming soon! Please be patient.)
 
+## Auxilium Discord
+Join our official Discord for sneak peaks, fun stuff & more.
+
+[Discord Link](https://discord.gg/QVEdw45AHX)
+
 ## FAQ
 
 ### What is Auxilium?
