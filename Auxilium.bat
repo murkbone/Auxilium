@@ -1040,7 +1040,10 @@ echo Once your partner completes their task, they will tell you the answer.
 echo                   Input the answer below.
 echo[
 set /p "await=?: "
-if "%await%" equ "lb" goto f
+if "%await%" equ "Yes" goto player1input
+if "%await%" equ "YES" goto player1input
+if "%await%" equ "yes" goto player1input
+goto await
 
 :experimenttwofinalbit
 cls
