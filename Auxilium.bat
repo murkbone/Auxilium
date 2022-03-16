@@ -38,7 +38,7 @@ echo  \ \  __ \/\ \/\ \/\ \/'\/\ \ \ \ \ \/\ \/\ \/\ \ /' __` __`\
 echo   \ \ \/\ \ \ \_\ \/    /\ \ \ \_\ \_\ \ \ \ \_\ \/\ \/\ \/\ \ 
 echo    \ \_\ \_\ \____//\_/\_\\ \_\/\____\\ \_\ \____/\ \_\ \_\ \_\
 echo     \/_/\/_/\/___/ \//\/_/ \/_/\/____/ \/_/\/___/  \/_/\/_/\/_/
-echo                  created by tobi (@meowfluff)
+echo                  created by ritz (@meowfluff)
 echo[
 echo 1. Player One
 echo 2. Player Two
