@@ -4,7 +4,7 @@
 
 **Requires two players for coop campaign, singleplayer coming soon**
 
-**Created by tobi (@meowfluff)**
+**Created by ritz (@meowfluff)**
 
 `Expected full release date: May - August 2022!`
 
