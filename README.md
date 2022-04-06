@@ -9,9 +9,7 @@
 `Expected full release date: May - August 2022!`
 
 ## Looking for a download?
-You can download the latest version of Auxilium here.
-
-(Demo is coming soon! Please be patient.)
+You can download the latest version of Auxilium [here](https://github.com/enfier/Auxilium/releases/Demo-v3).
 
 ## Auxilium Discord
 Join our official Discord for sneak peaks, fun stuff & more.
