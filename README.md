@@ -6,15 +6,12 @@
 
 **Created by ritz (@enfier_)**
 
-`Expected full release date: May - August 2022!`
+`This project has been cancelled.`
 
 ## Looking for a download?
-You can download the latest version of Auxilium [here](https://github.com/enfier/Auxilium/releases/Demo-v3).
+This project has been cancelled.
 
-## Auxilium Discord
-Join our official Discord for sneak peaks, fun stuff & more.
-
-[Discord Link](https://discord.gg/QVEdw45AHX)
+For more information on the cancellation & my next game, check out [Scrinium](https://github.com/enfier/scrinium).
 
 ## FAQ
 
@@ -28,7 +25,7 @@ You can either help your partner; or betray them for selfish gain.
 A singleplayer campaign will also be released eventually.
 
 ### When can I play it?
-We expect to release Auxilium around May to August 2022, however it may take longer or shorter.
+You can download Demo.v3 now, however this game will no longer receive content updates.
 
 ### Will the game be free to play?
 Yes! We have released a demo of 5 multiplayer levels and 1 singleplayer level here, which you can download here.
